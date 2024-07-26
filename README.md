@@ -1,2 +1,12 @@
 # Web Dev Simplified
-placeholder text to test GitHub Oages for Markdown
+
+HTML looks like this:
+
+```index.html
+<html>
+    ...
+</html>
+```
+"..." is whatever that goes between those tags, omitted for brevity
+
+Now what 
